@@ -9,3 +9,5 @@
 * [Предварительная обработка.ipynb](https://github.com/umuttaii/project_andan/blob/main/Предварительная%20обработка.ipynb) - тут первая часть нашей работы
 * [laptops.csv](https://github.com/umuttaii/project_andan/blob/main/laptops.csv) - датасет после обработки
 * [Визуализация данных.ipynb](https://github.com/umuttaii/project_andan/blob/main/Визуализация%20данных.ipynb) - В этой части мы предоставили визуализацию нашего датасета
+* []() - машинное обучение
+* 
