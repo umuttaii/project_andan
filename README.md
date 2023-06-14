@@ -10,5 +10,7 @@
 * [laptops.csv](https://github.com/umuttaii/project_andan/blob/main/laptops.csv) - датасет после обработки
 * [Визуализация данных.ipynb](https://github.com/umuttaii/project_andan/blob/main/Визуализация%20данных.ipynb) - В этой части мы предоставили визуализацию нашего датасета
 * [Гипотезы.ipynb](https://github.com/umuttaii/project_andan/blob/main/Гипотезы.ipynb) - попытка проверки гипотезы
-*  []() - машинное обучение
-* 
+*  [Машинка.ipynb](https://github.com/umuttaii/project_andan/blob/main/Машинка.ipynb) - машинное обучение
+
+
+ !!!!!!!!!!!!! СПАСИБО ЗА КУРС!!!!!!!!!!!!!!
